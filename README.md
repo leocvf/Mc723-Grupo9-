@@ -1,4 +1,4 @@
-# Programa 1 - Benchmark da Alegria#
+# Programa 1 - Benchmark da Alegria
 grupo 9 - Gangue da Alegria
 
  Este benchmark utiliza o programa de edição de imagem GraphicsMagick, aliado ao serviço de monitoramento Perf, para analisar diversas métricas do computador em que for executado. 
