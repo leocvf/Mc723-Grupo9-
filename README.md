@@ -11,7 +11,7 @@ grupo 9 - Gangue da Alegria
 
  O serviço de monitoramento do Perf deve retornar todas as medidas de performance necessárias ao final da execução. Valores absolutos e ponderados de cada métrica estarão disponíveis, sendo apresentados em forma de média das 6 execuções, incluindo a margem de erro.
 
-Teste base (controle): Computador do IC302 - i5
+Teste base (controle): Computador do IC302 - i5 4590 3.3 Ghz 8Gb Mem
 Performance counter stats for 'gm mogrify -contrast -contrast -contrast -contrast -contrast result.jpg' (6 runs):
 
       72180.247939      task-clock:u (msec)       #    3.563 CPUs utilized            ( +-  3.45% )
