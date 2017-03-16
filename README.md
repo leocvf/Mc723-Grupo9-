@@ -14,18 +14,18 @@ grupo 9 - Gangue da Alegria
 Teste base (controle): Computador do IC302 - i5 4590 3.3 Ghz 8Gb Mem
 Performance counter stats for 'gm mogrify -contrast -contrast -contrast -contrast -contrast result.jpg' (6 runs):
 
-      72180.247939      task-clock:u (msec)       #    3.563 CPUs utilized            ( +-  3.45% )
-                 0      context-switches:u        #    0.000 K/sec                  
-                 0      cpu-migrations:u          #    0.000 K/sec                  
-           356,847      page-faults:u             #    0.005 M/sec                    ( +-  0.00% )
-   251,115,894,786      cycles:u                  #    3.479 GHz                      ( +-  3.45% )
-   183,761,447,902      instructions:u            #    0.73  insn per cycle           ( +-  5.10% )
-    32,545,993,728      branches:u                #  450.899 M/sec                    ( +-  6.83% )
-        98,100,120      branch-misses:u           #    0.30% of all branches          ( +-  6.74% )
-    33,300,655,477      L1-dcache-loads:u         #  461.354 M/sec                    ( +-  2.12% )
-       177,318,784      L1-dcache-load-misses:u   #    0.53% of all L1-dcache hits    ( +-  0.28% )
-        10,729,703      LLC-loads:u               #    0.149 M/sec                    ( +-  3.86% )
-         5,286,464      LLC-load-misses:u         #   49.27% of all LL-cache hits     ( +-  6.06% )
+       72180.247939      task-clock:u (msec)       #    3.563 CPUs utilized            ( +-  3.45% )
+                  0      context-switches:u        #    0.000 K/sec                  
+                  0      cpu-migrations:u          #    0.000 K/sec                  
+            356,847      page-faults:u             #    0.005 M/sec                    ( +-  0.00% )
+    251,115,894,786      cycles:u                  #    3.479 GHz                      ( +-  3.45% )
+    183,761,447,902      instructions:u            #    0.73  insn per cycle           ( +-  5.10% )
+     32,545,993,728      branches:u                #  450.899 M/sec                    ( +-  6.83% )
+         98,100,120      branch-misses:u           #    0.30% of all branches          ( +-  6.74% )
+     33,300,655,477      L1-dcache-loads:u         #  461.354 M/sec                    ( +-  2.12% )
+        177,318,784      L1-dcache-load-misses:u   #    0.53% of all L1-dcache hits    ( +-  0.28% )
+         10,729,703      LLC-loads:u               #    0.149 M/sec                    ( +-  3.86% )
+          5,286,464      LLC-load-misses:u         #   49.27% of all LL-cache hits     ( +-  6.06% )
 
-      20.257407735 seconds time elapsed                                          ( +-  3.60% )
+       20.257407735 seconds time elapsed                                          ( +-  3.60% )
 
